@@ -45,4 +45,13 @@
 <img width="17%" alt="img" src="https://github.com/My-Pack/.github/assets/63100352/a6927cae-36d5-447b-b49f-1f5c12c58afa" style="object-fit: cover" />
 
 </div>
+
+<br/><br/><br/><br/><br/>
+<div>
+<h2>Card Custom</h2>
+<span style="font-weight: light;">자신의 스타일대로 카드를 꾸며보세요!</span>
+<br />
+<br />
+<img width="100%" alt="img" src="https://github.com/My-Pack/.github/assets/63100352/6620e88c-da68-4446-9d0f-a4b5cc99b99e" />
+</div>
 </div>
